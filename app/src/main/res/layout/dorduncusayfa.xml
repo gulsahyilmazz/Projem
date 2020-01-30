@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/papatya">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Günün Önerisi: Türk Kahvesi"
+            android:textColor="#000000"
+            android:textSize="30dp" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Türk kahvesi, Türkler tarafından bulunan kahve hazırlama ve pişirme metodunun adı. Kendine has tadı, köpüğü, kokusu, sunuluş biçimiyle özgün bir kimliği ve geleneği vardır. Telvesi ile ikram edilen tek kahve türüdür. Türk Kahvesini püf noktası iss; ılık su ile yapılması ve kahveyi ocağa koymadan önce iyice karıştırmaktır. Kahveyi ocağa koyduktan sonra karıştırmamanız daha köpükşü bir kahve olmasına olanak sağlar. Afiyet olsun ..:)"
+            android:textColor="#000000"
+            android:textSize="24dp" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="@drawable/images">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Haftanın Önerisi: Bir Başka Mavi- AMY HARMON"
+        android:textSize="30dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="TERSYÜZ'ün yazarından, hiç kimsenin birisi olmasının... alışılmadık bir dostluğun, umudun iyileşmeye ve kefaretin aşka dönüşmesinin hikâyesi.Blue Echohawk kim olduğunu bilmiyordu. Gerçek adından ya da doğum gününden bihaberdi. İki yaşında terk edilmiş, bir başıboş tarafından büyütülmüş ve on yaşına kadar okul yüzü dahi görmemişti. On dokuz yaşına geldiğinde, yaşıtları üniversiteye ya da yeni hayatlarına doğru giderken, Blue hâlâ lise son sınıftaydı. Annesiz, babasız, inançsız ve geleceksiz Blue Echohawk aynı zamanda zorlu bir öğrenciydi. Sertti ve kendi bildiğini okuyordu. Ayrıca son derece çekiciydi. Yani, genç bir İngiliz olan ve sorun çıkaranları kanatları altına almaya meyilli ve Blue'yu çözmeye kararlı tarih öğretmeninin tam tersiydi."
+        android:textSize="24dp"
+        android:textColor="@color/colorPrimary"/>
+</LinearLayout>
+</LinearLayout>
